@@ -1,5 +1,7 @@
 ---
 description: How to contribute and help this guide grow.
+cover: .gitbook/assets/river-219972_1280.jpg
+coverY: 0
 ---
 
 # 🤗 Contributing
