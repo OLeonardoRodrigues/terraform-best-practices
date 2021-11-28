@@ -1,5 +1,7 @@
 ---
 description: If I have seen further it is by standing on the shoulders of Giants.
+cover: .gitbook/assets/road-1072823_1920.jpg
+coverY: -9.928894634776986
 ---
 
 # 🤩 References
