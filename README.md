@@ -20,7 +20,3 @@ Every page has a few common elements, this helps you find useful information fas
 * Page Description - One line summary for the page/section
 * Overview - One paragraph summary for the page/section
 * Table of Contents - Structured link list to specific titles inside the page
-
-##
-
-##
