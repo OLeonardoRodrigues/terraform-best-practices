@@ -1,7 +1,7 @@
 ---
 description: How to work, organize, describe and deal with variables.
-cover: .gitbook/assets/avenue-2215317_1280.jpg
-coverY: -125.3081943437274
+cover: ../.gitbook/assets/avenue-2215317_1280.jpg
+coverY: 0
 ---
 
 # 🤓 Variables
@@ -10,7 +10,7 @@ coverY: -125.3081943437274
 
 Variables are one of the cornerstones for Terraform, they are a large portion of the interface between those using the module and those who wrote it.
 
-## Variable Structure
+## Structure and Organization
 
 Input variables have a few properties which can be declared in a flexible way, but to keep your `variables.tf` file readable, there are a few patterns that should be followed, such as keeping the same order in the declaration of your variable's properties, the order suggested here is:&#x20;
 
