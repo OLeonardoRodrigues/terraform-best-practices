@@ -29,4 +29,8 @@ Every section of this guide has a different cover image, all of them are nature 
 
 All these images have to be stored somewhere, and in this case it is a GitHub repository, to keep it light without loosing the concept, every subpage inside a section uses the same image as the section's main page.
 
-As for the source of these images, they all come from a royalty free image stock called [Pixabay](https://pixabay.com), and if you believe any of them hurt copyrights of any kind, there was no intention, they are not owned by the author of these pages and there's no financial gain in their usage, so feel free to contact us and request removal of any images you own, all we need is proof and it will be removed as soon as posible.
+As for the source of these images, they all come from a royalty free image stock called [Pixabay](https://pixabay.com), and if you believe any of them hurt copyrights of any kind, there was no intention, they are not owned by the author of these pages and there's no financial gain in their usage, so feel free to contact us and request removal of any images you own, all we need is proof and it will be removed as soon as possible.
+
+## Language
+
+This guide is writen in English to help it achieve the largest number of people out there, maybe in the future there will be a way to make this guide available in as many languages as we are able to translate it to.
