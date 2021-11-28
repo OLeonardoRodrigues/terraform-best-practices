@@ -1,3 +1,2 @@
-# Terraform Best Practices
+# Page 1
 
-An open source best practices guide to Terraform usage and tooling related to it.
