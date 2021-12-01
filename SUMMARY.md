@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🥳 Welcome](README.md)
-* [🤓 Concepts](concepts/README.md)
-  * [🤓 Modules](concepts/modules.md)
-  * [🤓 Variables](concepts/variables.md)
-  * [🤓 Outputs](concepts/outputs.md)
-* [😎 Tools](tools.md)
-* [🤗 Contributing](contributing.md)
-* [🤩 References](references.md)
+* [🥳 Boas Vindas](README.md)
+* [🤓 Conceitos](conceitos/README.md)
+  * [🤓 Módulos](conceitos/modulos.md)
+  * [🤓 Variáveis](conceitos/variaveis.md)
+  * [🤓 Outputs](conceitos/outputs.md)
+* [😎 Ferramentas](ferramentas.md)
+* [🤗 Contribuindo](contribuindo.md)
+* [🤩 Referências](referencias.md)
