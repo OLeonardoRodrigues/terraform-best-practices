@@ -4,9 +4,9 @@ cover: .gitbook/assets/road-1072823_1920.jpg
 coverY: -9.928894634776986
 ---
 
-# 🤩 References
+# 🤩 Referências
 
-## Overview
+## Resumo
 
 The content here is not a copy of anything else, but it is built on knowledge predating the creation of this guide, and this page intends to give credit to anyone, any team or source that helped in making it. There's never enough good content to learn from, and if this guide helps a single person achieve their goals, it succeded.
 

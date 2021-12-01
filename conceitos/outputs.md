@@ -6,7 +6,7 @@ coverY: 0
 
 # 🤓 Outputs
 
-## Overview
+## Resumo
 
 Outputs are used to expose values to other resource declarations to other modules or to the CLI.
 

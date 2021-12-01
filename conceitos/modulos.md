@@ -2,9 +2,9 @@
 description: How to work, organize, describe and deal with modules.
 ---
 
-# 🤓 Modules
+# 🤓 Módulos
 
-## Overview
+## Resumo
 
 Modules are a high level structure, they are usually isolated from other configurations, and can be used as a way to enforce policies, security and to group resources that need to be deployed together in a single abstraction.
 
