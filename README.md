@@ -1,7 +1,5 @@
 ---
-description: >-
-  Learn what's the purpose of this project, how to use it and how to contribute
-  to it.
+description: Entenda o propósito desse projeto como usar e como contribuir.
 cover: .gitbook/assets/landscape-3369304_1920.jpg
 coverY: 4.213606437454279
 ---
@@ -10,27 +8,27 @@ coverY: 4.213606437454279
 
 ## Resumo
 
-In this guide you will find useful information on how to take advantage of Terraform to help spread good Infrastructure as Code across different organizations, hopefully, all around the globe!
+Nesse guia, você vai encontrar informação útil sobre como tirar o melhor proveito do Terraform para ajudar a difundir boa Infraestrutura como Código através de várias organizações, de preferência, ao redor de todo o mundo!
 
 ## Estrutura do Conteúdo
 
-Every page has a few common elements, this helps you find useful information faster, no need to understand ever-changing structures when you have these resources:&#x20;
+Toda página tem tem alguns elementos em comum, isso te ajuda a encontrar informação útil mais rápido, não existe necessidade de entender estruturas que mudam o tempo todo quando você tem acesso aos seguintes recursos:&#x20;
 
-* Title - Few words focus point for the page/section
-* Page Description - One line summary for the page/section
-* Overview - One paragraph summary for the page/section
-* Table of Contents - Structured link list to specific titles inside the page
+* Título - Ponto de foco de algumas palavras para a página/seção
+* Descrição da Página - Resumo de uma linha da página/seção
+* Resumo - Resumo de um parágrafo da página/seção
+* Tabela de Conteúdos - Lista estruturada para títulos específicos da página
 
-Also there will not be more than two header levels inside each page and no more than two levels in each section, no need for excessive complexity.
+Também não vão haver mais de dois níveis de títulos dentro de cada página e não mais de dois níveis em cada seção, sem necessidade de excesso de complexidade.
 
-## Capas das Sessões
+## Capas das Seções
 
-Every section of this guide has a different cover image, all of them are nature related, this is a quite obvious joke on Terraform's name and the concept behind it, but it is also good for you, [there are many articles on this theme](https://letmegooglethat.com/?q=looking+at+pictures+of+nature).
+Toda seção desse guia tem uma imagem de capa, todas são relacionadas com natureza, isso é uma piada bem óbvia com o nome do Terraform e o conceito por trás dele, mas também por ser bom para você, [existem vários artigos sobre isso](https://letmegooglethat.com/?q=ver+imagens+da+natureza+faz+bem).
 
-All these images have to be stored somewhere, and in this case it is a GitHub repository, to keep it light without loosing the concept, every subpage inside a section uses the same image as the section's main page.
+Todas essas imagens precisam ser armazenadas em algum lugar, e nesse caso é um repositório do GitHub, para mantê-lo leve sem perder o conceito, toda página dentro de uma seção usa a mesma imagem que a página principal da seção.
 
-As for the source of these images, they all come from a royalty free image stock called [Pixabay](https://pixabay.com), and if you believe any of them hurt copyrights of any kind, there was no intention, they are not owned by the author of these pages and there's no financial gain in their usage, so feel free to contact us and request removal of any images you own, all we need is proof and it will be removed as soon as possible.
+Sobre a origem dessas imagens, todas vêm de um banco de imagem livre de royalties chamado [Pixabay](https://pixabay.com), e se você acredita que algum deles fere direitos autorais de algum tipo, no houve intenção, elas não são propriedade dos autores dessas páginas e não há ganho financeiro no seu uso, então sinta-se livre para nos contactar e solicitar a remoção de qualquer imagem que você tenha direitos sobre, tudo o que você precisa fazer é fornecer prova e o conteúdo será removido assim que possível.
 
 ## Linguagem
 
-This guide is writen in English to help it achieve the largest number of people out there, maybe in the future there will be a way to make this guide available in as many languages as we are able to translate it to.
+Esse guia é escrito em português e inglês para ajudar a atingir o maior número de pessoas possível por aí, talvez no futuro encontremos uma forma de disponibilizar o conteúdo aqui na maior quantidade de línguas que conseguirmos traduzir.
